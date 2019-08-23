@@ -1,5 +1,2 @@
-/*
+/
   Link: </index.css>; rel=preload; as=style
-  Link: </index.js>; rel=preload; as=script
-  Link: </fonts/roboto-light.woff2>; rel=preload; as=font crossorigin=anonymous type=font/woff2
-  Link: </fonts/roboto-medium.woff2>; rel=preload; as=font crossorigin=anonymous type=font/woff2
