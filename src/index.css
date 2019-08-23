@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Roboto";
+    font-weight: 300;
+    src: url('/fonts/roboto-light.woff2') format('woff2');
+    font-display: fallback;
+}
+  
+@font-face {
+    font-family: "Roboto";
+    font-weight: 500;
+    src: url('/fonts/roboto-medium.woff2') format('woff2');
+    font-display: fallback;
+}
+
+html {
+    font-family: Roboto;
+    font-weight: 300;
+}
+
+h1 {
+    font-weight: 500;
+}
